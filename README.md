@@ -1,7 +1,7 @@
-# Cherno-Alpha
-A second attempt at a first repository.<br>
+# Chapter 1
+<h3>In which our hero attempts to create a website.</h3>
 
 In its honor, a haiku: <br>
-Repository <br>
-The first one did not go well. <br>
-This one is better.
+This is a website. <br>
+Soon this will be laughable. <br>
+For now, I study.
