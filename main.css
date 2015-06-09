@@ -1,3 +1,57 @@
 .nav li {
 	display: inline;
 }
+
+.nav a {
+	color: black;
+  	font-size: 20px;
+	font-weight: bold;
+	padding-top: 14px;
+    	padding-bottom: 14px;
+    	padding-left:10px;
+    	padding-right: 135px;
+    	text-transform: uppercase;
+}	
+
+
+.jumbotron {
+	height: 500px;
+	background-image: url('http://media-cache-ec0.pinimg.com/736x/6f/0f/9e/6f0f9e21d18a9e68189af687ccac9d98.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.jumbotron h1 {
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.jumbotron p {
+	color: #fff;
+	font-size: 20px;
+}
+
+.content {
+	background-color: #f7f7f7;
+}
+
+.content h3 {
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.content a {
+	color: #00b0ff;
+}
+
+.banner h1 {
+	position: relative;
+	left: 700px;
+}
+
+.banner p {
+	position: relative;
+	left: 650px;
+}
